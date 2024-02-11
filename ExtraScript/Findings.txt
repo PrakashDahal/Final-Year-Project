@@ -1,0 +1,7 @@
+Maching learning steps:
+
+Training and testing data
+Model
+Cost function
+Optimizer
+Evaluation
